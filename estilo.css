@@ -1,0 +1,98 @@
+nav#home ul{
+    display: block;
+}
+nav#home ul {
+    list-style: none;
+    text-transform: uppercase;
+    position: absolute;
+    margin-top: -70px;
+    left: 700px;
+}
+nav#home li{
+    display: inline;
+    background-color: black;
+    padding: 10px;
+    margin: 2px;
+    transition: background-color 1s;
+    
+}
+nav#home li:hover {
+    background-color:rgb(112, 69, 69);
+}
+nav#home a {
+    color: white;
+    text-decoration: none;
+}
+
+#corpo {
+    height: 100%;
+    width: 100%;
+    background-image: url(img/frente.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: black;
+    
+}
+
+#pot {
+    color: white;
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+h1 {
+    color: white;
+    font-family: fantasy;
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+#titulo {
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+#cont {
+    color: white;
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#map {
+    margin-left: 50px;
+}
+
+#Fotos { 
+    padding: 100px
+}
+
+#texto {
+    margin-left: 90px; margin-right: 90px
+}
+
+#texto2 {
+    margin-left: 90px; margin-top: 15px; margin-right: 90px
+}
+
+#texto3 {
+    margin-left: 90px; margin-right: 90px;
+}
+#email {
+    margin-left: 90px
+}
+#telefone{
+    margin-left: 90px
+}
+#email2 { 
+    color: white; margin-left: 90px
+}
+#telefone2 {
+    color: white; margin-left: 90px
+}
+#logo {
+    margin-left: 600px; margin-right: 500px; margin-top: 100px; margin-bottom: 100px;
+}
